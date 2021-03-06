@@ -19,9 +19,8 @@ jobs:
 
       - name: ImageMagick Action
         uses: jruipinto/ImageMagick-action@v1
-          with:
-          # ImageMagick command to be executed
-            command: mogrify -path /static/thumb -auto-orient -resize 300x300 /static/*.*
+        with:
+          command: mogrify -path /static/thumb -auto-orient -resize 300x300 /static/*.*
 
       - name: Compress Images
         id: calibre
