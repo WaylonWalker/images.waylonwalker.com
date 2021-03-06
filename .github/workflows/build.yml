@@ -1,0 +1,32 @@
+name: 📷 Deploy images
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Set up Python 3.8
+        uses: actions/setup-python@v1
+        with:
+          python-version: 3.8
+
+      - name: ImageMagick Action
+        uses: jruipinto/ImageMagick-action@v1
+          with:
+          # ImageMagick command to be executed
+            command: mogrify -path /static/thumb -auto-orient -resize 300x300 /static/*.*
+
+      - name: Compress Images
+        id: calibre
+        uses: calibreapp/image-actions@main
+        with:
+          githubToken: ${{ secrets.GH_PAT }}
+          compressOnly: true
+
