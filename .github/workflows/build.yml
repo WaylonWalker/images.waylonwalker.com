@@ -32,6 +32,9 @@ jobs:
           githubToken: ${{ secrets.GH_PAT }}
           compressOnly: true
           
+      - name: make index
+        run: python template/render.py
+
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: auto thumbnail and compress

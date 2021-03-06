@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Waylon Walker Images</title>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/list.js/2.3.1/list.min.js"></script>
+    <link rel='stylesheet' href='https://dev.waylonwalker.com/archive-styles.css' />
+    <style type="text/css" media="screen">
+      ul {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        list-style-type: none;
+        max-width: 80vw;
+      }
+      li {
+        max-width: 300px;
+        margin: .1rem;
+      }
+      input {
+        margin: 5rem;
+      }
+    </style>
+  </head>
+  <body>
+    <div id='thumbs'>
+      <input type="search" class="search"  placeholder="fuzzy search!">
+      <ul 
+        class='list images-list' 
+        >
+        $images
+      </ul>
+    </div>
+  </body>
+<script>
+    var postList = new List('thumbs', {
+        valueNames: ['filename']
+    })
+</script>
+</html>
