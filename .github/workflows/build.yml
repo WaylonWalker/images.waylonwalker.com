@@ -17,9 +17,6 @@ jobs:
         with:
           python-version: 3.8
 
-      - name: make thumbdir
-        run: mkdir static/thumb
-
       - name: ImageMagick Action
         uses: jruipinto/ImageMagick-action@v1
         with:
