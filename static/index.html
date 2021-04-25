@@ -19,7 +19,7 @@
     <meta property="monetization" name="monetization" content="$ilp.uphold.com/MGN2ni2YMXaQ">
     <title>Waylon Walker Images</title>
     <script src="//cdnjs.cloudflare.com/ajax/libs/list.js/2.3.1/list.min.js"></script>
-    <link rel='stylesheet' href='https://dev.waylonwalker.com/archive-styles.css' />
+    <!-- <link rel='stylesheet' href='https://dev.waylonwalker.com/archive-styles.css' /> -->
     <style media="screen">
       ul {
         display: flex;
@@ -35,6 +35,19 @@
       input {
         margin: 5rem;
       }
+      .skip-link {
+        position: absolute;
+        top: -40px;
+        left: 0;
+        background: #000000;
+        color: white;
+        padding: 8px;
+        z-index: 100;
+      }
+
+      .skip-link:focus {
+        top: 0;
+      }
     </style>
 
     <script>
@@ -43,7 +56,8 @@
 
   </head>
   <body>
-    <div id='thumbs'>
+    <a class="skip-link" href="#main">Skip to main</a>
+    <main id='thumbs'>
       <input type="search" class="search"  placeholder="fuzzy search!">
       <ul 
         class='list images-list' 
@@ -3660,7 +3674,7 @@
 </li>
 
       </ul>
-    </div>
+    </main>
   </body>
 <script>
     var postList = new List('thumbs', {
