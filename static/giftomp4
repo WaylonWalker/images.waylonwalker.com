@@ -6,5 +6,5 @@ output="${input%.*}.mp4"
 echo converting $input to $output
 
 # ffmpeg -i $input -movflags faststart -pix_fmt yuv420p -vf "scale=trunc(iw/2)*2:trunc(ih/2)*2" $output
-ffmpeg -r 30 -i $input -movflags faststart -pix_fmt yuv420p -vf "scale=trunc(iw/2)*2:trunc(ih/2)*2" $output
+ffmpeg -r 15 -i $input -movflags faststart -pix_fmt yuv420p -vf "scale=trunc(iw/2)*2:trunc(ih/2)*2" $output
 
