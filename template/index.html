@@ -36,6 +36,11 @@
         margin: 5rem;
       }
     </style>
+
+    <script>
+      change_speed = (speed) => [...document.querySelectorAll('video')].map(v => v.playbackRate=v.playbackRate+speed)
+    </script>
+
   </head>
   <body>
     <div id='thumbs'>
