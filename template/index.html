@@ -35,6 +35,19 @@
       input {
         margin: 5rem;
       }
+      .skip-link {
+        position: absolute;
+        top: -40px;
+        left: 0;
+        background: #000000;
+        color: white;
+        padding: 8px;
+        z-index: 100;
+      }
+
+      .skip-link:focus {
+        top: 0;
+      }
     </style>
 
     <script>
@@ -43,6 +56,7 @@
 
   </head>
   <body>
+    <a class="skip-link" href="#main">Skip to main</a>
     <main id='thumbs'>
       <input type="search" class="search"  placeholder="fuzzy search!">
       <ul 
