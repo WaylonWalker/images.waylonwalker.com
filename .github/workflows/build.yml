@@ -17,6 +17,12 @@ jobs:
         with:
           python-version: 3.8
 
+      - name: install markata
+        run: pip install git+https://github.com/WaylonWalker/markata.git@develop python-twitter background # checksumdir
+
+      - name: run markata
+        run: markata --no-rich
+
       - name: ImageMagick Action
         uses: jruipinto/ImageMagick-action@v1
         with:
