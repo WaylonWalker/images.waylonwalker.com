@@ -23,13 +23,13 @@ jobs:
       - name: run markata
         run: markata --no-rich
 
-      - name: install cwebp
-        run: |
-           curl -s https://raw.githubusercontent.com/Intervox/node-webp/latest/bin/install_webp | sudo bash
-           pip install webp-converter
+      # - name: install cwebp
+      #   run: |
+      #      curl -s https://raw.githubusercontent.com/Intervox/node-webp/latest/bin/install_webp | sudo bash
+      #      pip install webp-converter
 
-      - name: convert to webp
-        run: webpc -q=50
+      # - name: convert to webp
+      #   run: webpc -q=50
       
       - name: ImageMagick Action
         uses: jruipinto/ImageMagick-action@v1
