@@ -1,0 +1,11 @@
+#!/bin/bash
+
+input=$1
+output="${input%.*}.mp4"
+outputwebm="${input%.*}.webm"
+
+echo converting $input to $output
+
+# ffmpeg -i $input -movflags faststart -pix_fmt yuv420p -vf "scale=trunc(iw/2)*2:trunc(ih/2)*2" $output
+ffmpeg -r 15 -i "$input" -movflags faststart -pix_fmt yuv420p -vf "scale=trunc(iw/2)*2:trunc(ih/2)*2" "$output"
+ffmpeg -i "$input" -c vp9 -b:v 0 -crf 41 "$outputwebm"

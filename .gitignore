@@ -1,0 +1,4 @@
+.envrc
+.markata.cache
+.venv
+__pycache__
