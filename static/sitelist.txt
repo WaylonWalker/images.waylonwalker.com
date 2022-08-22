@@ -4773,6 +4773,10 @@ map-rm.png
 map-rm.webp
 map.png
 map.webp
+markata-0.3.0-dev.webp
+markata-0.3.0-hashnode.webp
+markata-0.3.0-og.webp
+markata-0.3.0.webp
 markata-dev-base-cli-jan-2022.png
 markata-dev-base-cli-jan-2022.webp
 markata-dev-jan-2022.png
