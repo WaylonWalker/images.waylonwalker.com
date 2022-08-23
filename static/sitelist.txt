@@ -7707,6 +7707,10 @@ vim-wsl-clipboard.png
 vim-wsl-clipboard.webp
 vim-wsl-clipboard_250x140.png
 vim-wsl-clipboard_250x140.webp
+vimgrep-open-buffers-dev.webp
+vimgrep-open-buffers-hashnode.webp
+vimgrep-open-buffers-og.webp
+vimgrep-open-buffers.webp
 vow-dev.png
 vow-dev.webp
 vow-dev_250x105.png
