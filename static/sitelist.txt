@@ -6231,6 +6231,10 @@ review-pull-requests-with-git-worktrees-dev.webp
 review-pull-requests-with-git-worktrees-hashnode.webp
 review-pull-requests-with-git-worktrees-og.webp
 review-pull-requests-with-git-worktrees.webp
+rich-syntax-range-style-dev.webp
+rich-syntax-range-style-hashnode.webp
+rich-syntax-range-style-og.webp
+rich-syntax-range-style.webp
 robots.txt
 rockstar74-interview-review-dev.png
 rockstar74-interview-review-dev.webp
