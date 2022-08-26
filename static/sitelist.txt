@@ -7693,6 +7693,10 @@ vim-replace-visual-star_250x140.webp
 vim-replace.gif
 vim-replace.mp4
 vim-replace.webm
+vim-sort-u-dev.webp
+vim-sort-u-hashnode.webp
+vim-sort-u-og.webp
+vim-sort-u.webp
 vim-tab-characters.png
 vim-tab-characters.webp
 vim-wsl-clipboard-dev.png
