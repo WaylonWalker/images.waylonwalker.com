@@ -6676,6 +6676,14 @@ ta-git-layout.png
 ta-git-layout.webp
 ta-git.png
 ta-git.webp
+talk-python-kedro-dev.png
+talk-python-kedro-dev.webp
+talk-python-kedro-hashnode.png
+talk-python-kedro-hashnode.webp
+talk-python-kedro-og.png
+talk-python-kedro-og.webp
+talk-python-kedro.png
+talk-python-kedro.webp
 telegraph-release-dev.png
 telegraph-release-dev.webp
 telegraph-release-dev_250x105.png
