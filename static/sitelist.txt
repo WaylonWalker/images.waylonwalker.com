@@ -1875,6 +1875,10 @@ four-github-actions-website_250x140.png
 four-github-actions-website_250x140.webp
 four-pyton-packages-every-requirements-dev.png
 four-pyton-packages-every-requirements-dev.webp
+from-markdown-to-blog-with-markata-dev.webp
+from-markdown-to-blog-with-markata-hashnode.webp
+from-markdown-to-blog-with-markata-og.webp
+from-markdown-to-blog-with-markata.webp
 fugitive-commit-verbose-dev.webp
 fugitive-commit-verbose-dev_250x105.webp
 fugitive-commit-verbose-hashnode.webp
@@ -3548,6 +3552,10 @@ happy_250x140.png
 happy_250x140.webp
 hashnode-template.png
 hashnode-template.webp
+hatch-version-dev.webp
+hatch-version-hashnode.webp
+hatch-version-og.webp
+hatch-version.webp
 help-rm.png
 help-rm.webp
 help.png
@@ -3646,6 +3654,10 @@ htmx-get-til-hello.webp
 htmx-get.webp
 htop-2.0.png
 htop-2.0.webp
+i-spoke-at-python-web-conf-2022-dev.webp
+i-spoke-at-python-web-conf-2022-hashnode.webp
+i-spoke-at-python-web-conf-2022-og.webp
+i-spoke-at-python-web-conf-2022.webp
 ian-espinosa-177961-unsplash.jpg
 ian-espinosa-177961-unsplash.webp
 if-name-main-rm.png
@@ -5638,6 +5650,10 @@ pyohio-cfp-og.png
 pyohio-cfp-og.webp
 pyohio-cfp.png
 pyohio-cfp.webp
+pypi-2FA-dev.webp
+pypi-2FA-hashnode.webp
+pypi-2FA-og.webp
+pypi-2FA.webp
 pyspark-dev.png
 pyspark-dev.webp
 pyspark-dev_250x105.png
