@@ -3552,6 +3552,10 @@ happy_250x140.png
 happy_250x140.webp
 hashnode-template.png
 hashnode-template.webp
+hatch-new-cli-dev.webp
+hatch-new-cli-hashnode.webp
+hatch-new-cli-og.webp
+hatch-new-cli.webp
 hatch-version-dev.webp
 hatch-version-hashnode.webp
 hatch-version-og.webp
