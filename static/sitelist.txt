@@ -6407,6 +6407,10 @@ set-operations-rm.png
 set-operations-rm.webp
 set-operations.png
 set-operations.webp
+setting-up-snapper-on-arch-dev.webp
+setting-up-snapper-on-arch-hashnode.webp
+setting-up-snapper-on-arch-og.webp
+setting-up-snapper-on-arch.webp
 setup-pylsp-dev.png
 setup-pylsp-dev.webp
 setup-pylsp-dev_250x105.png
