@@ -3556,6 +3556,8 @@ hatch-new-cli-dev.webp
 hatch-new-cli-hashnode.webp
 hatch-new-cli-og.webp
 hatch-new-cli.webp
+hatch-new.png
+hatch-new.webp
 hatch-version-dev.webp
 hatch-version-hashnode.webp
 hatch-version-og.webp
