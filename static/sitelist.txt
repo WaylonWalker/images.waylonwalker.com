@@ -3561,6 +3561,7 @@ hatch-new.webp
 hatch-version-dev.webp
 hatch-version-hashnode.webp
 hatch-version-og.webp
+hatch-version.png
 hatch-version.webp
 help-rm.png
 help-rm.webp
