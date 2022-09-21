@@ -7586,6 +7586,10 @@ upgrade-copier-og.png
 upgrade-copier-og.webp
 upgrade-copier.png
 upgrade-copier.webp
+use-ipython-extensions-dev.webp
+use-ipython-extensions-hashnode.webp
+use-ipython-extensions-og.webp
+use-ipython-extensions.webp
 use-venv.png
 use-venv.webp
 uses-dev.png
