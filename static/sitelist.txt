@@ -1641,6 +1641,14 @@ discovered-social-cards.png
 discovered-social-cards.webp
 discuss-good-interview-questions-3-DEV-RT.png
 discuss-good-interview-questions-3-DEV-RT.webp
+django-create-superuser-dev.png
+django-create-superuser-dev.webp
+django-create-superuser-hashnode.png
+django-create-superuser-hashnode.webp
+django-create-superuser-og.png
+django-create-superuser-og.webp
+django-create-superuser.png
+django-create-superuser.webp
 do-you-hoist-dev.png
 do-you-hoist-dev.webp
 do-you-hoist-dev_250x105.png
