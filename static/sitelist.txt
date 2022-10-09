@@ -6346,6 +6346,14 @@ markata-live-is-working.mp4
 markata-live-is-working.webm
 markata-live-server-a2.png
 markata-live-server-a2.webp
+markata-now-uses-hatch-dev.png
+markata-now-uses-hatch-dev.webp
+markata-now-uses-hatch-hashnode.png
+markata-now-uses-hatch-hashnode.webp
+markata-now-uses-hatch-og.png
+markata-now-uses-hatch-og.webp
+markata-now-uses-hatch.png
+markata-now-uses-hatch.webp
 markata-run-no-cache.gif
 markata-run-no-cache.mp4
 markata-run-no-cache.webm
