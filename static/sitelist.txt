@@ -6400,6 +6400,14 @@ markata-run-no-cache.webm
 markata-run.gif
 markata-run.mp4
 markata-run.webm
+markata-supports-jinja-plugins-0-5-0-dev2-dev.png
+markata-supports-jinja-plugins-0-5-0-dev2-dev.webp
+markata-supports-jinja-plugins-0-5-0-dev2-hashnode.png
+markata-supports-jinja-plugins-0-5-0-dev2-hashnode.webp
+markata-supports-jinja-plugins-0-5-0-dev2-og.png
+markata-supports-jinja-plugins-0-5-0-dev2-og.webp
+markata-supports-jinja-plugins-0-5-0-dev2.png
+markata-supports-jinja-plugins-0-5-0-dev2.webp
 markata-telescope-picker-dev.png
 markata-telescope-picker-dev.webp
 markata-telescope-picker-hashnode.png
